@@ -7,4 +7,4 @@ A **Modern**, **Fast**, and **Cross-Platform Database** Client relational databa
 * Support connections to relational and non-relational databases
 
 ## Goal
-![falcon ui mockup](https://raw.githubusercontent.com/amilajack/falcon/master/img/falcon.jpg)
+![falcon ui mockup](https://raw.githubusercontent.com/amilajack/falcon/master/falcon.jpg)
