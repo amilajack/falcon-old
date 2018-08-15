@@ -1,4 +1,7 @@
 # falcon
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/falcon-old.svg)](https://greenkeeper.io/)
+
 A **Modern**, **Fast**, and **Cross-Platform Database** Client relational database viewer (Work-In-Progress)
 
 ## Plans
